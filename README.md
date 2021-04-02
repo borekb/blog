@@ -1,0 +1,2 @@
+# blog
+Viz issues
