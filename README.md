@@ -1,2 +1,3 @@
 # blog
-Viz issues
+
+Viz [issues](https://github.com/borekb/blog/issues).

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Návrh na téma? 💡
+    url: https://twitter.com/borekb
+    about: Napište mi na `borekb@gmail.com` nebo se ozvěte přes Twitter (@borekb).
+  - name: Počtěte si v issues
+    url: https://github.com/borekb/blog/issues
+    about: →
